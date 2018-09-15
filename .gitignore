@@ -6,3 +6,10 @@ bin
 
 # golang vendor (dependencies) directory
 vendor
+
+# Vim
+*.sw*
+Session.vim
+
+# OSX
+.DS_Store
