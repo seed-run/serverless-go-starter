@@ -1,2 +1,2 @@
 before_build:
-  - make build
+  - make
