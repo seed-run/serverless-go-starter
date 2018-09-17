@@ -1,5 +1,0 @@
-before_compile:
-  - pwd
-
-before_build:
-  - make
