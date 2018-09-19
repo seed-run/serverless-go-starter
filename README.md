@@ -1,6 +1,6 @@
 # Serverless Go Starter
 
-A Go starter project for [Serverless Framework](https://serverless.com/framework/) with support for dependencies (using [dep](https://github.com/golang/dep).
+A Go starter project for [Serverless Framework](https://serverless.com/framework/) with support for dependencies (using [dep](https://github.com/golang/dep)).
 
 ### Requirements
 
