@@ -1,4 +1,4 @@
-service: sls-go
+service: serverless-go-starter
 
 provider:
   name: aws
