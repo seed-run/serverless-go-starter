@@ -13,5 +13,10 @@ package:
 functions:
   hello:
     handler: bin/hello
+    events:
+      - http:
+          path: /
+          method: get
+
   world:
     handler: bin/world
