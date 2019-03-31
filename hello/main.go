@@ -10,7 +10,7 @@ type Response struct {
 
 func Handler() (Response, error) {
 	return Response{
-		Message: "Go Serverless v1.0! Your function executed successfully!",
+		Message: "Hello!",
 	}, nil
 }
 
